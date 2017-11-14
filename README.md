@@ -1,4 +1,3 @@
 # hello-world
-first demo repo.
 
-This is my first github repository.
+누구나 시작은 있다.
